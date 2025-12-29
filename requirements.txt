@@ -1,5 +1,5 @@
-numpy
-scipy
+numpy ##virify
+scipy ##virify os
 matplotlib
-pandas
+pandas ##virify
 pytest
