@@ -15,7 +15,7 @@ def sampling_rate(t):
     """
     # TODO:
     # 1. ardışık iki zaman örneği arasındaki farkı hesapla
-    # 2. fs = 1 / dt #dt= b**2-4*a*c
+    # 2. fs = 1 / dt 
     pass
 
 
